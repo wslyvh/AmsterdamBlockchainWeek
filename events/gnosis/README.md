@@ -4,17 +4,17 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'Everything you want to know about DAOstack by Gnosis'
+title: 'Everyting you want to know about the dxDAO by DAOstack and Gnosis'
 
 # Description for this event. 
-description: Everything you want to know about DAOstack by Gnosis
+description: Everyting you want to know about the dxDAO by DAOstack and Gnosis
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'Everything you want to know about DAOstack by Gnosis'
+name: 'Everyting you want to know about the dxDAO by DAOstack and Gnosis'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -24,7 +24,7 @@ name: 'Everything you want to know about DAOstack by Gnosis'
 
 synopsis:
   -
-    Everything you want to know about DAOstack by Gnosis
+    Everyting you want to know about the dxDAO by DAOstack and Gnosis
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
