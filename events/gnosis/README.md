@@ -41,7 +41,7 @@ time: '18:00'
 endTime: '20:00'
 
 # The URL where to aquire the tickets. Can be left empty.
-tickets:
+tickets: https://www.meetup.com/fr-FR/gnosispm/events/258761143/?eventId=258761143&response=yes
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
