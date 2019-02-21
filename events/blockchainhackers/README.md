@@ -4,18 +4,18 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'The Epicenter rendez-vous in Paris'
+title: '#blockchainhackers meetup 2'
 
 # Description for this event. 
 description: 
-  Epicenter is going to Paris Blockchain Week and we're hosting a Meetup on the evening of March 6th, just after the conference day’s end. It will be a casual get-together where you can hang out with hosts (Sebastien and Sunny), former guest and other podcast listeners. 
+ On the 4th of March,#blockchainhackers security meetup will take place as a part of Paris blockchain week. World’s best smart contract security experts will talk about latest insights of the industry.  
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'The Epicenter rendez-vous in Paris'
+name: '#blockchainhackers meetup 2'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -25,39 +25,41 @@ name: 'The Epicenter rendez-vous in Paris'
 
 synopsis:
   -
-    Epicenter is going to Paris Blockchain Week and we're hosting a Meetup on the evening of March 6th, just after the conference day’s end. It will be a casual get-together where you can hang out with hosts (Sebastien and Sunny), former guest and other podcast listeners.
+    On the 4th of March,#blockchainhackers security meetup will take place as a part of Paris blockchain week. World’s best smart contract security experts will talk about latest insights of the industry.
+  -
+    Check our previous event at Prague; https://blog.hackenproof.com/events/hackenproof-gathered-top-smart-contract-security-experts-blockchainhackers-meetup/
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2019-03-06
+date: 2019-03-08
 
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2019-03-06
+endDate: 2019-03-08
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime: 
+endTime: '18:00'
 
 # The URL where to aquire the tickets. Can be left empty.
-tickets: https://epicenter.rocks/ethcc
+tickets: https://dgovfoundation.typeform.com/to/b0nVmw
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 45
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Le Square
 
 # The address to link to a Google map. Please test the address on Google Maps.
-address: 
+address: Passage Saint-Pierre Amelot, Paris
 
 # The category of the event. 
-category: drink
+category: workshop
 
 #################
 ### SPEAKERS ####
