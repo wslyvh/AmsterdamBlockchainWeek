@@ -54,7 +54,7 @@
 
 export default {
   data: () => ({
-    // First"calendar day of the event (March 1)
+    // First calendar day of the event (March 1)
     firstDay: 1,
     // Hours without the leading zero nor trailing minutes
     firstHour: 9,
@@ -131,21 +131,17 @@ export default {
             dayDuration = (endDay - day) + 1
           }
 
-
-          const eventDuration = (Number(fm.endTime.split(':')[0]) - Number(fm.time.split(':')[0]) + (dayDuration * 15))
-            for (let i = 0; i < dayDuration; i++){
-              for (let j = 0; j < eventDuration; j++) {
-                const hour = 9
-                // const day = (fm.time + eventDuration) > 24 || i + 1 
-                this.events.push({
-                  path: path,
-                  name: fm.name,
-                  time: fm.time,
-                  day: day +i,
-                  hour: hour +j,
-                })
-              }
-            }
+          for (let i = 0; i < dayDuration; i++){
+              let hour = 9
+              // const day = (fm.time + eventDuration) > 24 || i + 1 
+              this.events.push({
+                path: path,
+                name: fm.name,
+                time: fm.time,
+                day: day +i,
+                hour,
+              })
+          }
         }
       })
     },
@@ -176,7 +172,6 @@ export default {
   },
 
   mounted () {
-    console.log(moment)
     this.setDays()
     this.getEvents()
     this.setWrapperHeight()
