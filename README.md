@@ -24,6 +24,9 @@ features:
 - title: Le Square Paris
   details: “Le Square Paris” is an association that gathers companies and groups in order to explore the future of work and mobility.
 
+- title: 42 School
+  details: 42 is a private, nonprofit and tuition-free computer programming school created and founded by Xavier Niel in 2013.
+
 footer:
   -
     url: /legal/privacy-policy/
