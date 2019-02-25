@@ -50,11 +50,7 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-<<<<<<< HEAD
     'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 5th to 7th March 2019.'
-=======
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 5th to 7th March 2018.'
->>>>>>> bcadd87a118702170a76aba05ddae1b0ca98bb0d
   -
     'It features: 4 amphitheaters, multiple streams, small workshops for developers & researchers, networking and experience sharing'
 
