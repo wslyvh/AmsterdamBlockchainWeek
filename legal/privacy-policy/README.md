@@ -2,7 +2,7 @@
 title: Privacy Policy & Contact
 ---
 
-# Privacy Policy
+# Privacy Policy & Contact
 
 The blockchainweek.fr website provides information about Paris Blockchain
 Week, a series of independent events organized by individuals, in order to
@@ -32,4 +32,4 @@ third-party sites or services.
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not
-hesitate to contact us (contact[at]asseth.fr).
+hesitate to contact us at [contact[at]asseth.fr](mailto:contact@asseth.fr)

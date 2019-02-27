@@ -29,8 +29,8 @@ features:
 
 footer:
   -
-    url: /legal/privacy-policy/
-    text: Privacy policy
+    url: /legal/privacy-policy-contact/
+    text: Privacy policy — Contact
 #  -
 #    url: /legal/imprint/
 #    text: Imprint
