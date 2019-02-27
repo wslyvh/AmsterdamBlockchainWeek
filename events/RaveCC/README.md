@@ -27,11 +27,11 @@ synopsis:
   -
     Come lose yourself in the ether with fellow crypto freaks during the Community Blockchain Week in Paris.
   -
-    Location accessible from central Paris and the EthCC venue.
+    Location accessible from central Paris and the EthCC venue. 
   -
     Drinks will be payable in cash, ETH and DAI.
   -
-    Timetable TBA
+    Timetable TBA (The party will be going until the morning hours)
   -
     Tech house / minimal / trance
   -
@@ -63,7 +63,7 @@ endDate: 2019-03-08
 # Example: '18:00'
 time: '22:00'
 # Time when the event ends. Can be left empty.
-endTime: '05:00'
+endTime: 
 
 # The URL where to aquire the tickets. Can be left empty.
 tickets: https://www.eventbrite.com/e/ravecc-2019-tickets-57515499407
