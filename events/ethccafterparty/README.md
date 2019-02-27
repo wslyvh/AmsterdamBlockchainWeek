@@ -8,7 +8,7 @@ title: 'EthCC AFTERPARTY'
 
 # Description for this event. 
 description: 
-  TBD. 
+  EthCC official afterparty, in partnership with Aave.
 
 #####################
 ### EVENT DETAILS ###
@@ -25,8 +25,11 @@ name: 'EthCC AFTERPARTY'
 
 synopsis:
   -
-    TBD.
-
+    EthCC official afterparty, in partnership with Aave.
+  -
+    Snacks and drinks will be provided.
+  - 
+    Entrance restricted to EthCC participants.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -39,9 +42,9 @@ endDate: 2019-03-07
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '20:00'
+time: '21:00'
 # Time when the event ends. Can be left empty.
-endTime: 
+endTime: '02:00'
 
 # The URL where to aquire the tickets. Can be left empty.
 tickets: 
@@ -51,10 +54,10 @@ tickets:
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Studio Abel 14
 
 # The address to link to a Google map. Please test the address on Google Maps.
-address: 
+address: 59 Rue Claude Decaen, 75012 Paris
 
 # The category of the event. 
 category: drink
