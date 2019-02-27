@@ -29,6 +29,7 @@ module.exports = {
       }
     ],
     logo: 'eiffel-logo.png',
+    ga: 'UA-126811549-1',
     // Assumes GitHub. Can also be a full GitLab url.
     // repo: 'nsexer/blockchainweek.fr',
     // Customising the header label
