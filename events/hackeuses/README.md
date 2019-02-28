@@ -30,6 +30,8 @@ synopsis:
   -
     • 18h00 Hackathon d'idées (travail par équipes sur des thèmes visant à soutenir la volonté des femmes à prendre leur place dans l'écosystème des Blockchains puis restitution) jusqu’à 20h30.
     • Puis cocktail et networking... jusqu'à 22h00 
+  -
+    Validation de la demande d’inscription par Enventbrite Obligatoire (https://www.eventbrite.fr/e/billets-hackahackeuses-57658273448)
 
 
 # The date should be in the format year-month-day (ISO 8601).
