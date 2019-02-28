@@ -56,14 +56,14 @@ date: 2019-03-07
 
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2019-03-08
+endDate: 2019-03-07
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
 time: '22:00'
 # Time when the event ends. Can be left empty.
-endTime: 
+endTime:
 
 # The URL where to aquire the tickets. Can be left empty.
 tickets: https://www.eventbrite.com/e/ravecc-2019-tickets-57515499407
