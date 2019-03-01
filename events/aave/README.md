@@ -46,7 +46,7 @@ time: '19:00'
 endTime: '21:00'
 
 # The URL where to aquire the tickets. Can be left empty.
-tickets:
+tickets: https://www.eventbrite.it/e/creating-a-decentralized-world-together-tickets-57741222551
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
@@ -132,6 +132,15 @@ speakers:
     company: Kickback
     companyURL: https://kickback.events/
     twitter: wearekickback
+    website: 
+    bio:
+
+  -
+    name: Taylor Monahan
+    title: Founder and CEO
+    company: MyCrypto
+    companyURL: 
+    twitter: tayvano_
     website: 
     bio:
 
