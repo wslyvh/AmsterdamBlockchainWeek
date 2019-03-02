@@ -35,7 +35,7 @@ synopsis:
   -
     Tech house / minimal / trance
   -
-    Due to a long bear winter, we have to ask for a contribution for attending. If you are intending to attend, please register ASAP and spread the word. Entry includes one drink ticket. If we cover the costs the bar will be an open one - this is for community, not for profit.
+    Due to a long bear winter, we have to ask for a contribution for attending. Entry includes one drink ticket. If we cover the costs the bar will be an open one - this is for community, not for profit. Made possible with support from our friends at [Stake Capital](https://www.stake.capital/).
   -
     PLUR / One Tribe
     ☮️ 💓 🕉️ 🙇‍♀   ️ 
