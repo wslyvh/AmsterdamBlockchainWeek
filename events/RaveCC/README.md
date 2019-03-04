@@ -46,7 +46,7 @@ synopsis:
   -
    • BTC => 18EHWWWNoqpN9DtKAVmX9dTJkuir6qWzvC / 33B8jD3eWnnjasb6uPSWZjj9Lgsp8gXX7L / bc1qs8ull4ghw2hasu3ygr509ng6mcaupky4kwruyn
   - 
-    This event is non-sponsored as of now - if your team wants to help make this as awesome as it can be, contact at [ravecc@protonmail.com](mailto:ravecc@protonmail.com)
+    If your team wants to help make this as awesome as it can be, contact at [ravecc@protonmail.com](mailto:ravecc@protonmail.com)
 
    
 
