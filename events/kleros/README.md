@@ -7,9 +7,8 @@
 title: 'Presentation of the Kleros Handbook of Decentralized Justice'
 
 # Description for this event. 
-description: 
-  Kleros team is proud to present Dispute Revolution; a Kleros Handbook of Decentralized Justice as a contribution to the expanding field of decentralized justice, created to share our learnings, strike up discussion and further research in the field. ​It is our sincerest belief​ that this book can help opening academic and professional discussion on the topic of the future of distributed justice and bring closer the world of blockchain technologies and law.
- 
+description: Kleros team is proud to present 
+  Dispute Revolution.
 
 #####################
 ### EVENT DETAILS ###
@@ -26,7 +25,9 @@ name: 'Presentation of the Kleros Handbook of Decentralized Justice'
 
 synopsis:
   -
-    Kleros team is proud to present Dispute Revolution; a Kleros Handbook of Decentralized Justice as a contribution to the expanding field of decentralized justice, created to share our learnings, strike up discussion and further research in the field. ​It is our sincerest belief​ that this book can help opening academic and professional discussion on the topic of the future of distributed justice and bring closer the world of blockchain technologies and law.
+    Kleros team is proud to present Dispute Revolution; a Kleros Handbook of Decentralized Justice as a contribution to the expanding field of decentralized justice, created to share our learnings, strike up discussion and further research in the field. ​
+  -  
+    It is our sincerest belief​ that this book can help opening academic and professional discussion on the topic of the future of distributed justice and bring closer the world of blockchain technologies and law.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28

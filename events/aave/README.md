@@ -53,10 +53,10 @@ tickets: https://www.eventbrite.it/e/creating-a-decentralized-world-together-tic
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Liberte Living-Lab
 
 # The address to link to a Google map. Please test the address on Google Maps.
-address: 
+address: 9 Rue d'Alexandrie, 75002 Paris
 
 # The category of the event. 
 category: workshop
@@ -141,6 +141,15 @@ speakers:
     company: Kickback
     companyURL: https://kickback.events/
     twitter: wearekickback
+    website: 
+    bio:
+
+  -
+    name: Luis Cuende
+    title: Co-Founder
+    company: Aragon
+    companyURL: https://aragon.org/
+    twitter: AragonProject
     website: 
     bio:
 

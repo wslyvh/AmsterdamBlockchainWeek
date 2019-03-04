@@ -4,19 +4,18 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'Blockchain Week Afterparty @sof's bar'
+title: 'Blockchain Week Afterparty @Sofs bar'
 
 # Description for this event. 
-description: 
-  Blockchain Week Afterparty @sof's bar.
- 
+description: Afterparty @Sofs bar by Cercle du Coin
+   
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'Blockchain Week Afterparty @sof's bar'
+name: 'Blockchain Week Afterparty @sofs bar'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -26,9 +25,12 @@ name: 'Blockchain Week Afterparty @sof's bar'
 
 synopsis:
   -
-    Après les conférences retrouvons nous au Sof's bar, qui accepte les paiements en Bictoin et Ether, certains membre du cercle du coin seront présent et ravi de vous accueillir" Pinte de bière en happy hour jusqu'a 21h 4€
+    Après les conférences retrouvons nous au Sofs bar, qui accepte les paiements en Bictoin et Ether. Certains membre du cercle du coin seront présent et ravi de vous accueillir. Pinte de bière en happy hour jusqu'a 21h — 4€
   -
-    Let's meet up after the conferences at the Sof's bar, which accepts paiements in Bitcoin and Ether,some members of the 'Cercle du coin' will be there and glad to welcome you. Happy hours on beers until 9PM, 4€
+    --
+  -
+    After the conferences, let's meet at Sofs bar, which accepts payments in Bictoin and Ether. Some members of the local circle will be present and delighted to welcome you. Pint of beer in happy hour until 9pm — 4€   
+
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
