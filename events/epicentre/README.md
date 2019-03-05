@@ -51,10 +51,10 @@ tickets: https://epicenter.rocks/ethcc
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Le Carlie
 
 # The address to link to a Google map. Please test the address on Google Maps.
-address: 
+address: 177 rue Saint-Martin
 
 # The category of the event. 
 category: drink
