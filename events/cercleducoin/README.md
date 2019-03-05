@@ -25,11 +25,11 @@ name: 'Blockchain Week Afterparty @sofs bar'
 
 synopsis:
   -
-    Après les conférences retrouvons nous au Sofs bar, qui accepte les paiements en Bictoin et Ether. Certains membre du cercle du coin seront présent et ravi de vous accueillir. Pinte de bière en happy hour jusqu'a 21h — 4€
+    Après les conférences retrouvons nous au Sofs bar, qui accepte les paiements en Bitcoin et Ether. Certains membre du cercle du coin seront présent et ravi de vous accueillir. Pinte de bière en happy hour jusqu'a 21h — 4€
   -
     --
   -
-    After the conferences, let's meet at Sofs bar, which accepts payments in Bictoin and Ether. Some members of the local circle will be present and delighted to welcome you. Pint of beer in happy hour until 9pm — 4€   
+    After the conferences, let's meet at Sofs bar, which accepts payments in Bitcoin and Ether. Some members of the local circle will be present and delighted to welcome you. Pint of beer in happy hour until 9pm — 4€   
 
 
 # The date should be in the format year-month-day (ISO 8601).
