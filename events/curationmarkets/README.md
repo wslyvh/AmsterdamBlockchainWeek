@@ -4,7 +4,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'Curation Markets Meetup with Protea'
+title: 'Curation Markets Meetup'
 
 # Description for this event. 
 description: 
@@ -15,7 +15,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'Curation Markets Meetup with Protea'
+name: 'Curation Markets Meetup'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
