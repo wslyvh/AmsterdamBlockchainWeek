@@ -50,16 +50,15 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 5th to 7th March 2019.'
-  -
-    'It features: 4 amphitheaters, multiple streams, small workshops for developers & researchers, networking and experience sharing'
+    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
+    
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2019-03-05
+date: 2020-03-03
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2019-03-07
+endDate: 2019-03-05
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
@@ -76,11 +75,11 @@ tickets: https://ethcc.io/
 price: TBD
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: CNAM
+venue: Maison de la Mutualité, Paris, France
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 292 Rue Saint-Martin, Paris 75001
+address: 24 Rue Saint-Victor, 75005 Paris
 
 # The category of the event. Valid options:
 # - conference

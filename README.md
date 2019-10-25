@@ -3,15 +3,19 @@ home: true
 actionText: View the Events →
 actionLink: /events/
 
-description: The Community Blockchain Week is a community-organized initiative.
+description: The France Blockchain Week is a community-organized initiative.
   It is an agnostic movement based on the premise that
   self-organization is the backbone of the ecosystem. We invite projects,
   individuals and anyone interested in fruitful and educational discussions to
   join us.
 
-tagline: 4-10 March 2019 in Paris
+tagline: 2-8 March 2020 in Paris
 
 features:
+
+- title: Maison de la Mutualité
+  details: Placed at the heart of one of the most iconic Parisian district, la Maison de la Mutualité will host EthCC3 in 2020. Listed as a historic monument, the building has a long tradition of hosting congresses, concerts, seminars and meetings. 
+
 - title: Consensys
   details: Paris’s Consensys hub. Consensys is the Leading Blockchain Development Studio in the World. Present in 6continents, it is counting 1000+ employees and 50+ startups (spokes), the French office is one of its European hub. 
 
@@ -41,9 +45,9 @@ footer:
 
 <hr /><br /> 
 
-The Community Blockchain Week is a blockchain tech-focused initiative organized voluntarily by the community.
+The France Blockchain Week is a blockchain tech-focused initiative organized voluntarily by the community to showcase in France the latest blockchain applications and technical progress made worldwide.
 
-After similar editions occured all over the world, this one will take place in Paris, gathering all the brightest minds and latest improvements with flagship events such as _[EthCC]_.
+After similar editions occured all over the world, this one will take place in Paris, gathering all the brightest minds with flagship events such as _[EthCC]_.
 
 The goal is to bring blockchain communities together and foster communication within and without crypto communities.
 
