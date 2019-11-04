@@ -33,7 +33,8 @@ title: EthCC — Ethereum Community Conference
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon4 and DevCon5, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+description: 
+  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon4 and DevCon5, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
 
 
 #####################
@@ -58,7 +59,7 @@ synopsis:
 date: 2020-03-03
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2019-03-05
+endDate: 2020-03-05
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
@@ -128,7 +129,7 @@ speakers:
     #title: President
     company: HERE
     companyURL: http://ethcc.io
-    twitter: ComBlockWeek
+    twitter: ASSETH_FR
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.

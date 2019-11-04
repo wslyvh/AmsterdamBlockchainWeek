@@ -37,7 +37,7 @@
           </td> -->
 
           <!-- Each day column-->
-          <td v-for="d in firstDay + 9" v-if="d >= firstDay">
+          <td v-for="d in firstDay + 6" v-if="d >= firstDay">
             <div v-for="event in checkEvents(d, t)" v-if="event">
               <a :href="$withBase(event.path)">{{ event.name }}</a>
             </div>
@@ -54,15 +54,12 @@
 
 export default {
   data: () => ({
-    // First calendar day of the event (March 1)
-    firstDay: 1,
+    // First calendar day of the event (March 2)
+    firstDay: 2,
     // Hours without the leading zero nor trailing minutes
     firstHour: 9,
     lastHour: 9,
     dayNames: [
-      'Friday',
-      'Saturday',
-      'Sunday',
       'Monday',
       'Tuesday',
       'Wednesday',

@@ -16,20 +16,23 @@ features:
 - title: Maison de la Mutualité
   details: Placed at the heart of one of the most iconic Parisian district, la Maison de la Mutualité will host EthCC3 in 2020. Listed as a historic monument, the building has a long tradition of hosting congresses, concerts, seminars and meetings. 
 
-- title: Consensys
-  details: Paris’s Consensys hub. Consensys is the Leading Blockchain Development Studio in the World. Present in 6continents, it is counting 1000+ employees and 50+ startups (spokes), the French office is one of its European hub. 
+- title:  
+  details: More to come... 
 
-- title: CNAM
-  details: The Conservatoire Nationale des Arts et Métiers (CNAM) will host EthCC. At the center of Paris, CNAM features 4 massive amphitheatres, workshop rooms and... a church.
+# - title: Consensys
+#   details: Paris’s Consensys hub. Consensys is the Leading Blockchain Development Studio in the World. Present in 6continents, it is counting 1000+ employees and 50+ startups (spokes), the French office is one of its European hub. 
 
-- title: Coinhouse
-  details: Founded in 2014 in Paris, Coinhouse (formerly La Maison du Bitcoin) is a pioneer in cryptoassets investments. Both an online platform and a brick-and-mortar location, they are a trusted partner for individuals and institutional investors looking to analyse, acquire, sell, and securely store cryptoassets.
+# - title: CNAM
+#   details: The Conservatoire Nationale des Arts et Métiers (CNAM) will host EthCC. At the center of Paris, CNAM features 4 massive amphitheatres, workshop rooms and... a church.
 
-- title: Le Square Paris
-  details: “Le Square Paris” is an association that gathers companies and groups in order to explore the future of work and mobility.
+# - title: Coinhouse
+#   details: Founded in 2014 in Paris, Coinhouse (formerly La Maison du Bitcoin) is a pioneer in cryptoassets investments. Both an online platform and a brick-and-mortar location, they are a trusted partner for individuals and institutional investors looking to analyse, acquire, sell, and securely store cryptoassets.
 
-- title: 42 School
-  details: 42 is a private, nonprofit and tuition-free computer programming school created and founded by Xavier Niel in 2013.
+# - title: Le Square Paris
+#   details: “Le Square Paris” is an association that gathers companies and groups in order to explore the future of work and mobility.
+
+# - title: 42 School
+#   details: 42 is a private, nonprofit and tuition-free computer programming school created and founded by Xavier Niel in 2013.
 
 footer:
   -
