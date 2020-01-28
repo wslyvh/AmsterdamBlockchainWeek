@@ -50,7 +50,7 @@ name: ETH Paris
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
+    'ETHParis is a hackathon run by DoD and taking place at the ESGI — Ecole Supérieure de Génie Informatique the 6th to 8th March 2020.'
     
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -68,7 +68,7 @@ time: '09:00'
 endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://medium.com/ethberlin/ethberl-no-wait-ethparis-is-coming-e60073cc6d4
+tickets: https://ethberlin.typeform.com/to/AVUMcv
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
