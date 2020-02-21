@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DAOs at France Blockchain Week
+title: Paris P2P 7
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  An evening fully dedicated to DAO topic.
+  Monthly Peer-to-Beer of the Parisian community interested in all things P2P
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DAOs at France Blockchain Week
+name: Paris P2P 7
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,36 +50,35 @@ name: DAOs at France Blockchain Week
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'An evening fully dedicated to DAO topic.'
-    
+    'Each month, the Parisian community interested in all things P2P meets and share about cryptography, privacy, commons, shared governance, DAPPs, DAOs, Web3 and the blockchains.'
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-05
+date: 2020-03-04
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-05
+endDate: 2020-03-04
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
 time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime: 
+endTime: '23:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: 
+tickets: https://p2p.paris/en/event/monthly-7/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:  The Garage
+venue: Ground Control
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 5 rue du Vertbois, 75003 Paris
+address: 81 Rue du Charolais, 75012 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -124,15 +123,22 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: More info
+    name: Caleb James Delisle
+    title: cjdns
+    company: Lead developer of cjdns
+    companyURL: https://github.com/cjdelisle/cjdns
+    twitter: cjdelisle
+    website: https://p2p.paris/en/speakers/caleb-james-delisle/
+    bio: Caleb James DeLisle, the lead developer of cjdns, an encrypted IPv6 networking protocol and server software that uses public key cryptography for address allocation and a distributed hash table for routing.
+  -
+    name: Ops of Berty
     #title: President
-    company: Soon™
-    companyURL: mailto:adrien.berthou@gmail.com
-    #twitter: ETHBerlin
-    #website: https://jdetychey.com
-    #bio: Jerome De Tychey is Jerome,
-    #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
-
+    company: Berty Technologies
+    companyURL: https://berty.tech/
+    twitter: pierreboc
+    website: https://p2p.paris/en/speakers/pierre-boc/
+    bio: Pierre manages operations at Berty Technologies in order to create new secure communication tools to protect the privacy and protect against censorship.
+    
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
