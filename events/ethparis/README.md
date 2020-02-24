@@ -34,7 +34,7 @@ title: ETH Paris
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  More info to come soon....
+  'TLDR: We have decided to put ETHParis 2020 on ice. However, together with ETHCC, we will be co-hosting a small action, no sponsors, ad-hoc: a hacking, learning space where our community can chill after ETHLondon and ETHCC. More news about this will follow.'
 
 #####################
 ### EVENT DETAILS ###
@@ -50,15 +50,17 @@ name: ETH Paris
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'ETHParis is a hackathon run by DoD and taking place at the ESGI — Ecole Supérieure de Génie Informatique the 6th to 8th March 2020.'
+    'TLDR: We have decided to put ETHParis 2020 on ice. However, together with ETHCC, we will be co-hosting a small action, no sponsors, ad-hoc: a hacking, learning space where our community can chill after ETHLondon and ETHCC. More news about this will follow.'
+  -
+    'Read more on https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149'
     
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-06
+date: 2020-03-07
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-08
+endDate: 2020-03-07
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
@@ -68,7 +70,7 @@ time: '09:00'
 endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://ethberlin.typeform.com/to/AVUMcv
+tickets: https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
@@ -88,7 +90,7 @@ address: 242 Rue du Faubourg Saint-Antoine, 75012 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: hackathon
+category: event
 
 
 #################
@@ -127,7 +129,7 @@ speakers:
     name: More info
     #title: President
     company: Soon™
-    companyURL: https://medium.com/ethberlin/ethberl-no-wait-ethparis-is-coming-e60073cc6d4
+    companyURL: https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149
     twitter: ETHBerlin
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
