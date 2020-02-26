@@ -124,20 +124,20 @@ speakers:
     #bio: Hi.
     #   This is Nathan. 
     name: Caleb James Delisle
-    title: cjdns
-    company: Lead developer of cjdns
-    companyURL: https://github.com/cjdelisle/cjdns
-    twitter: cjdelisle
+    title: Replacing BGP in 4 easy steps
+    #company: Lead developer of cjdns
+    companyURL: https://github.com/francep2p/community/issues/67
+    #twitter: cjdelisle
     website: https://p2p.paris/en/speakers/caleb-james-delisle/
-    bio: Caleb James DeLisle, the lead developer of cjdns, an encrypted IPv6 networking protocol and server software that uses public key cryptography for address allocation and a distributed hash table for routing.
+    bio: Replacing BGP in 4 easy steps, by Caleb James Delisle. More info; https://github.com/francep2p/community/issues/67
   -
-    name: Ops of Berty
-    #title: President
+    name: Pierre Boc
+    title: Le talk que je pourrais pas faire en Chine
     company: Berty Technologies
     companyURL: https://berty.tech/
     twitter: pierreboc
-    website: https://p2p.paris/en/speakers/pierre-boc/
-    bio: Pierre manages operations at Berty Technologies in order to create new secure communication tools to protect the privacy and protect against censorship.
+    website: https://github.com/francep2p/community/issues/70
+    bio: Le talk que je pourrais pas faire en Chine, par Pierre Fermey (Berty). Plus d'info; https://github.com/francep2p/community/issues/70
     
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---

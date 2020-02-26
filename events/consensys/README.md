@@ -34,7 +34,7 @@ title: 'The Ethereum momentum : On the road to Product-Market fit'
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Dispute Revolution is a conference on Decentralized Justice and the future of the Law and LegalTech, organised by the Cooperative Kleros alongside Paris Center for Law and Economics (CRED) Panthéon-Assas Paris 2 University.
+  'The Ethereum momentum : On the road to Product/Market fit. The First edition of the ConsenSys Product Roadshow'
 
 #####################
 ### EVENT DETAILS ###
