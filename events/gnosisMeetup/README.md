@@ -52,7 +52,7 @@ name: Gnosis Happy Hour
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'We will host a happy hour in Paris for the Gnosis Ecosystem Fund community and those interested in learning more about the program.
+    'To celebrate the community, we will host a happy hour on March 4th at 7:30pm for the Gnosis community and those interested in learning more about Gnosis products and the Gnosis Ecosystem Fund.
 
     Come meet our developers and talk about Gnosis projects.'
     
@@ -72,18 +72,18 @@ time: '19:00'
 endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: mailto:mareen@gnosis.io
+tickets: https://www.meetup.com/gnosispm/events/269004535
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:  Paris
+venue:  5ème Cru
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 
+address: 7 Rue du Cardinal Lemoine
 
 # The category of the event. Valid options:
 # - conference

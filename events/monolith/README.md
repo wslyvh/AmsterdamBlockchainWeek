@@ -28,20 +28,24 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'The Ethereum momentum : On the road to Product-Market fit'
+title: Monolith Meetup Paris - DeFi Tea & Pastries
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  'The Ethereum momentum : On the road to Product/Market fit. The First edition of the ConsenSys Product Roadshow'
+  'New to Paris and EthCC giving you sore feet?
+  
+  Come and relax over tea and pastries in the famous tea rooms of the Great Mosque of Paris, right next to EthCC.
+  
+  We’re providing free mint tea and pastries.'
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'The Ethereum momentum : On the road to Product-Market fit'
+name: Monolith Meetup Paris - DeFi Tea & Pastries
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,45 +54,45 @@ name: 'The Ethereum momentum : On the road to Product-Market fit'
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'The Ethereum momentum : On the road to Product/Market fit. The First edition of the ConsenSys Product Roadshow'
+    'New to Paris and EthCC giving you sore feet? Come and relax over tea and pastries in the famous tea rooms of the Great Mosque of Paris, right next to EthCC. We’re providing free mint tea and pastries.'
   -
-    'Join us for the first edition of the ConsenSys Product Roadshow with a special guest: Joe Lubin, co-founder of Ethereum and CEO of ConsenSys.'
+    'WHEN? 
+    Wednesday, March 4th
+    Starting at 7:30 PM'
   -
-    'The Ethereum Community Conference (EthCC Paris) is around the corner and we wanted to leverage this fantastic opportunity to bring together some of the key technology influencers and the early and most active users in the blockchain space around a strong and insightful topic: Product Market/fit.'
+    'WHERE?
+    The Tea Room of the Great Mosque of Paris
+    2bis Place du Puits de l Ermite, 75005 Paris, France'
   -
-    'There are numerous reasons why this is the best time to tackle this huge question: the maturity and professionalization of the Ethereum ecosystem, the growing and impressive track record of Enterprise and financial institution adoption, and a tech stack that is gaining ground among thousands of developers.'
-  -
-    'This morning event will take place on March 2nd, at the ConsenSys office in Paris and will be a combination of a keynote, interactive client testimonial and working session to ensure speakers can share best practices and gather insight from the audience, while setting the scene for all the product representatives at ConsenSys to showcase the latest exciting features and foster user feedback during these sessions and the lunch party.'
-  -
-    'Check out the agenda and register today! Places are limited.'
+    'Please RSVP as soon as possible so we can make sure that there is food for everyone.'
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-02
+date: 2020-03-04
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-02
+endDate: 2020-03-04
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:30'
+time: '19:00'
 # Time when the event ends. Can be left empty.
 endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://consensysproductroadshow.splashthat.com/
+tickets: https://www.meetup.com/monolith/events/268981007/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:  Maison de la Mutualité
+venue: 
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 24 Rue Saint-Victor, 75005 Paris
+address: 2bis Place du Puits de l Ermite, 75005 Paris, France
 
 # The category of the event. Valid options:
 # - conference
@@ -97,7 +101,7 @@ address: 24 Rue Saint-Victor, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: drink
 
 
 #################
@@ -133,41 +137,27 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: Joe Lubin
+    name: Mel Gelderman
     title: CEO
-    company: ConsenSys
-    #companyURL: mailto:mareen@gnosis.io
-    #twitter: ETHBerlin
+    company: Monolith
+    companyURL: https://monolith.xyz
+    twitter: https://twitter.com/MelGelderman
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
   -
-    name: Sean Brenann
-    title: Developer Relations
-    company: Infura
+   name: Mischa Tuffield
+   title: CTO
+   company: Monolith
+   companyURL: https://monolith.xyz
+   twitter: https://twitter.com/mischat
   -
-    name: Analia Ramos 
-    title: Tech Writer
-    company: PegaSys Orchestrate
-  -
-    name: David Teruzzi
-    title: CTO
-    company: AURA, LVMH
-  -
-    name: Felipe Faraggi
-    title: Developer Relations
-    company: PegaSys
-  -
-    name: Mara Schmidt
-    title: Product Lead
-    company: CodeFi Activate
-  -
-    name: Gonçalo Sa
-    company: ConsenSys Diligence
-  -
-    name: Julien Marchand
-    title: Product Lead
-    company: PegaSys Orchestrate
+   name: Brice Berdah "TokenBrice"
+   title: Community Lead
+   company: Monolith
+   companyURL: https://monolith.xyz
+   twitter: https://twitter.com/TokenBrice
+
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
