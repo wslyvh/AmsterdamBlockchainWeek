@@ -87,7 +87,7 @@ address: 54 Rue Descartes, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
