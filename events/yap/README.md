@@ -28,21 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'Crypto Conversations: Let the Data speak'
-
+title: 'Pre-EthCC[3] drinks with YAP Global!'
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Following Day 1 of Ethereum Community Conference (EthCC), Kaiko & Santiment are hosting an evening on Crypto data, markets and investing!
+  'International PR agency, YAP Global will be hosting drinks ahead of EthCC[3]! The event will bring together journalists, industry leaders in the Ethereum community and anyone interested in knowing more about crypto and PR!'
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'Crypto Conversations: Let the Data speak'
+name: 'Pre-EthCC[3] drinks with YAP Global!'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -51,43 +50,35 @@ name: 'Crypto Conversations: Let the Data speak'
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Following Day 1 of Ethereum Community Conference (EthCC), Kaiko & Santiment are hosting an evening on Crypto data, markets and investing!'
-  -
-    'Join Ambre Soubiran (CEO, Kaiko) and Maksim Balashevich (Founder, Santiment) along with Tomasz Kajetan Stańczak (Founder, Nethermind) and Fredrik Haga (Co-founder and CEO, Dune Analytics) in their data-driven discussion on the current state of crypto. Expect to meet the investors of Digital Assets, Crypto community of Paris and newcomers to Blockchain.'
-  -
-    'All are welcome. Light refreshments will be served. This event will take place in English.'
-  -
-    'Code of Conduct: All attendees, speakers, sponsors, organizers and volunteers at this meetup are required to agree with the following code of conduct. This event is dedicated to providing a harassment-free meetup experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.'
-  -
-    'We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the conference organisers. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. Inspired by; https://confcodeofconduct.com/'
+    'International PR agency, YAP Global will be hosting drinks ahead of EthCC[3]! The event will bring together journalists, industry leaders in the Ethereum community and anyone interested in knowing more about crypto and PR!'
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-03
+date: 2020-03-02
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-03
+endDate: 2020-03-02
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
 endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://cryptodataparis.eventbrite.com/
+tickets: 
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:  TBA
+venue: La Mezzanine
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 
+address: 3 Rue du Cluny, 75005
 
 # The category of the event. Valid options:
 # - conference
@@ -96,7 +87,7 @@ address:
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
@@ -107,8 +98,8 @@ category: event
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
-  -
+#speakers:
+#  -
     # # Required.
     #name: Nathan Sexer
 
@@ -131,33 +122,8 @@ speakers:
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
-    #   This is Nathan. 
-    name: Ambre Soubiran
-    title: CEO
-    company: Kaiko
-    companyURL: https://www.kaiko.com/
-    twitter: https://twitter.com/ambresoub
-    #website: https://jdetychey.com
-    #bio: Jerome De Tychey is Jerome,
-    #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
-  -
-   name: Maksim Balashevich
-   title: Founder
-   company: Santiment
-   companyURL: https://santiment.net/
-   twitter: https://twitter.com/balance_ra
-  -
-    name: Tomasz Kajetan Stańczak
-    title: Founder
-    company: Nethermind
-    companyURL: https://nethermind.io/
-    twitter: https://twitter.com/nethermindeth
-  -
-    name: Fredrik Haga
-    title: Co-founder and CEO
-    company: Dune Analytics
-    companyURL: https://www.duneanalytics.com/
-    twitter: twitter.com/hagaetc
+    #   This is Nathan.
+
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
