@@ -34,7 +34,7 @@ title: ETH Paris
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  'Hacking, learning space where our community can chill after ETHLondon and ETHCC. '
+  'Hacking, learning space where our community can chill after ETHLondon and ETHCC.'
 
 #####################
 ### EVENT DETAILS ###
@@ -99,8 +99,7 @@ category: hackathon
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
-  -
+
     # # Required.
     #name: Nathan Sexer
 
@@ -123,12 +122,6 @@ speakers:
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
-    #   This is Nathan. 
-    name: More info
-    #title: President
-    company: Soon™
-    companyURL: https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149
-    twitter: ETHBerlin
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
