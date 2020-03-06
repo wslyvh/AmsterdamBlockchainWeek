@@ -140,10 +140,10 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: More info
+    #name: More info
     #title: President
-    company: Soon™
-    companyURL: mailto:mareen@gnosis.io
+    #company: Soon™
+    #companyURL: mailto:mareen@gnosis.io
     #twitter: ETHBerlin
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,

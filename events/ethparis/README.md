@@ -34,7 +34,7 @@ title: ETH Paris
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  'TLDR: We have decided to put ETHParis 2020 on ice. However, together with ETHCC, we will be co-hosting a small action, no sponsors, ad-hoc: a hacking, learning space where our community can chill after ETHLondon and ETHCC. More news about this will follow.'
+  'Hacking, learning space where our community can chill after ETHLondon and ETHCC. '
 
 #####################
 ### EVENT DETAILS ###
@@ -50,9 +50,7 @@ name: ETH Paris
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'TLDR: We have decided to put ETHParis 2020 on ice. However, together with ETHCC, we will be co-hosting a small action, no sponsors, ad-hoc: a hacking, learning space where our community can chill after ETHLondon and ETHCC. More news about this will follow.'
-  -
-    'Read more on https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149'
+    'https://www.eventbrite.com/e/paris-the-unhackathon-tickets-98069962899'
     
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -70,11 +68,11 @@ time: '09:00'
 endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149
+tickets: https://www.eventbrite.com/e/paris-the-unhackathon-tickets-98069962899
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: FREE
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
 venue:  ESGI — Ecole Supérieure de Génie Informatique
@@ -90,7 +88,7 @@ address: 242 Rue du Faubourg Saint-Antoine, 75012 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: hackathon
 
 
 #################
