@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC — Ethereum Community Conference
+title: Introducing DeFi and unpacking its potential by Ethereum Magicians Follow
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+  Join us at the Auditorium of ESCE Paris where we will be introducing Aave, one of the hottest start up of the Decentralized Finance industry, and the ConsenSys Codefi product suite, a blockchain operating system for commerce and finance.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC — Ethereum Community Conference
+name: Introducing DeFi and unpacking its potential by Ethereum Magicians Follow
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,12 +50,32 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
-    
+    'Hi everyone,
+    Join us at the Auditorium of ESCE Paris where we will be introducing Aave, one of the hottest start up of the Decentralized Finance industry, and the ConsenSys Codefi product suite, a blockchain operating system for commerce and finance.'
+  -
+    'The event will be focused on introducing lending protocols and the magic behind the word "DeFi" (Decentralized Finance) and will show how Ethereum composability is giving a new meaning to entrepreneurship.'
+  -
+    'We will then open the debate by presenting the challenges facing the DeFi ecosystem in the future, the missing bricks needed for it to thrive and the potential to usher a new era of open financial infrastructure.'
+  -
+    'This event will be in english but both speakers are french speakers so you are welcome to ask questions in french if you are struggling with english.'
+  -
+    'Schedule:
+    6.30pm Open doors and networking
+    6:45pm Introducing DeFi and Lending protocols
+    7:15pm The Future of DeFi: Challenges, Missing Links and Potential of the Financial Revolution
+    8pm Q & A
+    8:30pm Networking with drinks and snacks
+    This event is sponsored by Aave'
+  -
+    'Links:
+    Aave: https://aave.com/
+    ConsenSys: https://consensys.net/
+    Organisers: https://ethereum-magicians.org/
+    Venue partner: http://mastere.esce.fr/'
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-03
+date: 2020-03-05
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate: 2020-03-05
@@ -63,23 +83,23 @@ endDate: 2020-03-05
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '18:30'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://ethcc.io/
+tickets: https://www.eventbrite.com/e/introducing-defi-and-unpacking-its-potential-tickets-95577471791
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: TBD
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Maison de la Mutualité, Paris, France
+venue:  Auditorium of ESCE Paris - International Business school
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 24 Rue Saint-Victor, 75005 Paris
+address: 10 rue Sextius Michel 75015 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +108,7 @@ address: 24 Rue Saint-Victor, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: event
 
 
 #################
@@ -124,14 +144,21 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: See all speakers
-    #title: President
-    company: HERE
-    companyURL: https://ethcc.io/speakers.html
-    twitter: ASSETH_FR
+    name: Jordan Lazaro Gustave
+    title: Chief of Operations
+    company: Aave
+    companyURL: https://aave.com/
+    twitter: https://twitter.com/aaveaave
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
+  -
+   name: Jimmy Ragosa
+   title: Product Owner
+   company: ConsenSys
+   companyURL: https://consensys.net/
+   twitter: https://twitter.com/Consensys
+
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---

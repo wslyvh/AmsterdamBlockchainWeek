@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC — Ethereum Community Conference
+title: 'Tezos, Pocket & SkillZ: Demystifying Blockchain node deployment!'
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+  SkillZ is excited to invite you in their offices to welcome Tezos and Pocket Network (straight out of the USA!), as a side-event of EthCC.Together we will demystify node deployment and infrastructure and get the latest updates from the Tezos protocol.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC — Ethereum Community Conference
+name: 'Tezos, Pocket & SkillZ: Demystifying Blockchain node deployment!'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,36 +50,59 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
+    '**** Only 10 minutes from the EthCC location ****
     
+    Blockchain networks are resilient, secured, distributed, etc. And these qualities mainly rely on it’s nodes.
+
+    How do you define blockchain infrastructure? How do we ensure that individuals and companies access it? How do we ensure decentralization is maintain? How do you bootstrap an enterprise-grade deployment pipeline?
+
+    ****'
+  -
+    'SkillZ is excited to invite you in their offices to welcome Tezos and Pocket Network (straight out of the USA!), as a side-event of EthCC.
+
+    Together we will demystify node deployment and infrastructure and get the latest updates from the Tezos protocol.
+
+    ****'
+  -
+    'Agenda:
+
+    19h30 : Tezos - Nomadic Labs, with Romain Bardou. A Tour of Tezos and its Test Networks
+
+    20h00 : Pocket Network, with Michael O’Rourke. Deep dive in Pocket Network, a protocol dedicated to incentivize full nodes for any blockchain
+
+    21h : SkillZ, with Laszlo Szabo & Arnaud Groussard. Blockchain orchestration at your fingertips : Set up your complete blockchain deployment pipeline
+
+    21h30 : Networking and pizzas
+
+    We look forward to see you many of you at the meetup!'
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-03
+date: 2020-03-04
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-05
+endDate: 2020-03-04
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://ethcc.io/
+tickets: https://www.meetup.com/fr-FR/skillz/events/269008547/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: TBD
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Maison de la Mutualité, Paris, France
+venue:  
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 24 Rue Saint-Victor, 75005 Paris
+address: 14 Avenue Trudaine 75009
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +111,7 @@ address: 24 Rue Saint-Victor, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: event
 
 
 #################
@@ -124,14 +147,24 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: See all speakers
-    #title: President
-    company: HERE
-    companyURL: https://ethcc.io/speakers.html
-    twitter: ASSETH_FR
+    name: Michael O’Rourke
+    title: CEO
+    company: Pocket Network
+    companyURL: https://pokt.network/
+    #twitter: ETHBerlin
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
+  -
+   name: Romain Bardou
+   title: Release Manager
+   company: Nomadic Labs/Tezos
+  -
+    name: Laszlo Szabo
+    company: Skillz
+  -
+    name: Arnaud Groussard
+    company: Skillz
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---

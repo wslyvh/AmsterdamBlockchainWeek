@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC — Ethereum Community Conference
+title: Flash Loan and DeFi Dev Workshop
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+  'Learn how to make your first Flash Loan with the Aave Fam'
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC — Ethereum Community Conference
+name: Flash Loan and DeFi Dev Workshop
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,7 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
+    'Learn how to make your first Flash Loan with the Aave Fam'
     
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -58,28 +58,28 @@ synopsis:
 date: 2020-03-03
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-05
+endDate: 2020-03-03
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '16:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://ethcc.io/
+tickets: https://www.eventbrite.co.uk/e/flash-loan-defi-dev-workshop-tickets-97349477909
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: TBD
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Maison de la Mutualité, Paris, France
+venue:  Liberte Living-Lab
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 24 Rue Saint-Victor, 75005 Paris
+address: 9 Rue d'Alexandrie 75002 Paris France
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +88,7 @@ address: 24 Rue Saint-Victor, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: workshop
 
 
 #################
@@ -99,8 +99,8 @@ category: conference
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
-  -
+#speakers:
+  #-
     # # Required.
     #name: Nathan Sexer
 
@@ -124,11 +124,11 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: See all speakers
+    #name: More info
     #title: President
-    company: HERE
-    companyURL: https://ethcc.io/speakers.html
-    twitter: ASSETH_FR
+    #company: Soon™
+    #companyURL: https://medium.com/ethberlin/ethparis-see-you-in-2021-yes-2021-d4f5d655c149
+    #twitter: ETHBerlin
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.

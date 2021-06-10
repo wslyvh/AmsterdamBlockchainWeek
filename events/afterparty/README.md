@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC — Ethereum Community Conference
+title: Official EthCC After Party
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+  'This year EthCC (Ethereum Community Conference) is bigger and better than ever! After 3-days filled with an amazing 200+ technical talks and workshops... It is time to Party in Paris!'
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC — Ethereum Community Conference
+name: Official EthCC After Party
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,36 +50,52 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
+    'This year EthCC (Ethereum Community Conference) is bigger and better than ever! After 3-days filled with an amazing 200+ technical talks and workshops... It is time to Party in Paris!'
+  -
+    'This time, we are changing things up at night. For the official EthCC After Party, we will be bringing you to an underground dance cave below an old school French theatre. "Petit Palace" is one of the highlights of Parisian nightlife, and this Thursday it will be our local hang. DJ Sets by Acid Arab and Petit Palace Resident Marco Dos Santos.'
+  -
+    '10:15pm - After Party Starts
+
+    12:30pm - Petit Palace Opens to the public (everyone is welcome to stay and continue partying)'
+  -
+    'Thank You to our After Party Sponsors Aave, Pepo, and MetaCartel!'
+  -
+    '**We`ll have free drink tickets for the first 100 people to arrive, so come early!
+    PS: Make sure you go to the right spot, this one is located at 8 Rue du Faubourg Montmartre.'
+  -
+    'Acid Arab Soundcloud: https://soundcloud.com/acid-arab'
     
+  -
+    'Marco Dos Santos Soundcloud: https://soundcloud.com/platform/marco-dos-santos9'
+
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-03
+date: 2020-03-05
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-05
+endDate: 
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '10:15'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: 
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://ethcc.io/
+tickets: https://www.eventbrite.com/e/ethcc-presents-the-after-party-tickets-97762376901?aff=ebdssbdestsearch
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: TBD
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Maison de la Mutualité, Paris, France
+venue:  Petit Palace
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 24 Rue Saint-Victor, 75005 Paris
+address: 8 Rue du Faubourg Montmartre, 75009 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +104,7 @@ address: 24 Rue Saint-Victor, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: drink
 
 
 #################
@@ -99,39 +115,6 @@ category: conference
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
-  -
-    # # Required.
-    #name: Nathan Sexer
-
-    # # Can be left empty.
-    #title: Title?
-
-    # # Can be left empty.
-    #company: Blockchainweek.fr
-
-    # # The full URL, including http(s)://. Can be left empty.
-    #companyURL: https://ethcc.io/
-
-    # # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-    # # Can be left empty.
-    #twitter: nathansexer
-
-    # # The full URL, including http(s)://. Can be left empty.
-    #website: https://blockchainweek.fr
-
-    # # The bio is a single line.
-    # # Linebreaks are ignored, but they _must_ start with two spaces.
-    #bio: Hi.
-    #   This is Nathan. 
-    name: See all speakers
-    #title: President
-    company: HERE
-    companyURL: https://ethcc.io/speakers.html
-    twitter: ASSETH_FR
-    #website: https://jdetychey.com
-    #bio: Jerome De Tychey is Jerome,
-    #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---

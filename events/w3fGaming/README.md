@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC — Ethereum Community Conference
+title: Blockchain Gaming Unconference
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+  Blockchain Gaming Unconference - Let's meet in Paris for a discussion on blockchain gaming!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC — Ethereum Community Conference
+name: Blockchain Gaming Unconference
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,36 +50,61 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
-    
+    'The event will kick-off with attendees engaging in a brainstorming session on the pain-points that blockchain game developers currently face. This is followed by a group activity in the afternoon where participants will work together to solve a blind challenge and design a blockchain game. We are hoping for fun, engaging, and memorable event!'
+  -
+    'Breakfast, snacks, lunch & evening drinks will be provided!'
+  -
+    'AGENDA'
+  -
+    '9:30 - 10:00 AM: Check-in & Breakfast'
+  - 
+    '10:00 - 10:30 AM: Introduction'
+  -
+    '10:30 - 11:30 AM: Pain Points Discussion'
+  -
+    '11:30 AM - 12:00 PM: Coffee Break'
+  -
+    '12:00 - 1:30 PM: Wrap Up, Scenario Game & Team Formation'
+  -
+    '1:30 - 2:30 PM: Lunch'
+  -
+    '2:30 - 4:00 PM: Team Working Session'
+  -
+    '4:00 - 4:15 PM: Break'
+  -
+    '4:15 - 5:30 PM: Teams Presentations'
+  -
+   '5:30 - 6:00 PM: Judging decision & Announcement'
+  -
+    '6:00 - 7:30 PM: Afterwork Snacks & Drinks'
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-03
+date: 2020-03-02
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-05
+endDate: 2020-03-02
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '09:00'
+time: '09:30'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '19:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://ethcc.io/
+tickets: https://www.eventbrite.com/e/blockchain-gaming-unconference-tickets-95237619283
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: TBD
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Maison de la Mutualité, Paris, France
+venue:  COMET, Place des Victoires
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 24 Rue Saint-Victor, 75005 Paris
+address: 12 Rue du Mail, 75002 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -88,7 +113,7 @@ address: 24 Rue Saint-Victor, 75005 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: conference
+category: workshop
 
 
 #################
@@ -99,8 +124,8 @@ category: conference
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
-  -
+#speakers:
+  
     # # Required.
     #name: Nathan Sexer
 
@@ -124,11 +149,11 @@ speakers:
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
     #   This is Nathan. 
-    name: See all speakers
+    #name: More info
     #title: President
-    company: HERE
-    companyURL: https://ethcc.io/speakers.html
-    twitter: ASSETH_FR
+    #company: Soon™
+    #companyURL: https://www.eventbrite.com/e/blockchain-gaming-unconference-tickets-95237619283
+    #twitter: ETHBerlin
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
