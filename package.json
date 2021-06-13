@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "debounce": "^1.2.0",
-    "vuepress": "^0.14.9"
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
     "minimatch": "^3.0.4",
