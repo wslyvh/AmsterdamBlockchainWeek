@@ -2,7 +2,7 @@ module.exports = {
   // Use the name of the repo if the content is served from GitHub Pages
   // base: '/blockchainweek.fr/',
   // Leave the base as '/' if serving the content from a custom domain
-  base: '/website',
+  base: '/',
   title: 'EthCC Week',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
