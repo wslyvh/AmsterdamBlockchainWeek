@@ -2,7 +2,7 @@
   "name": "ethccweek.fr",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:cesalazar/berlinblockchainweek.git",
+  "repository": "git@github.com:ethccweek/ethccweek.fr.git",
   "author": "Carlos E. Salazar <ce.salazar@gmail.com>",
   "license": "MIT",
   "bugs": {
