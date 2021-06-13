@@ -4,9 +4,9 @@ title: Privacy Policy & Contact
 
 # Privacy Policy & Contact
 
-The blockchainweek.fr website provides information about Paris Blockchain
-Week, a series of independent events organized by individuals, in order to
-promote blockchain technology.
+The ethccweek.fr website provides information about EthCC
+Week, a series of independent events organized by independent parties in order to
+promote blockchain and decentralized technology.
 
 This page is used to inform website visitors regarding our policies with the
 collection, use, and disclosure of Personal Information if anyone decided to
@@ -18,7 +18,7 @@ We don’t store your data, period.
 
 ## Cookies
 
-blockchainweek.fr does not use cookies to collect information.
+ethccweek.fr does not use cookies to collect information.
 
 ## Links to Other Sites
 
@@ -31,5 +31,5 @@ third-party sites or services.
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not
-hesitate to contact us at [contact[at]asseth.fr](mailto:contact@asseth.fr)
+If you have any questions or suggestions about our Privacy Policy, contact
+us at [contact[at]asseth.fr](mailto:contact@asseth.fr)
