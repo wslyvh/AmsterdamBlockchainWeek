@@ -4,10 +4,7 @@ actionText: View the Events →
 actionLink: /events/
 
 description: The EthCC Week is a community-organized initiative.
-  It is an agnostic movement based on the premise that
-  self-organization is the backbone of the ecosystem. We invite projects,
-  individuals and anyone interested in fruitful and educational discussions to
-  join us.
+  The EthCC Week is a week of free educational and celebration activities organized by and for the crypto community, in parallel of EthCC [4] conference in Paris.
 
 tagline: 19-25 July 2021 in Paris
 
