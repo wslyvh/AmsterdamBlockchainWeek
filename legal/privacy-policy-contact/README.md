@@ -32,4 +32,4 @@ third-party sites or services.
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, contact
-us at [contact[at]asseth.fr](mailto:contact@asseth.fr)
+us at [contact[at]@ethereum-france.com](mailto:contact@ethereum-france.com)

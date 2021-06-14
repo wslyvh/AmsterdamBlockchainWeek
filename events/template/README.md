@@ -11,7 +11,7 @@
 # and edit the README.md file inside that new folder just created.
 #
 # The name of the folder will be used on the URL. Example:
-# https://blockchainweek.fr/my-event-name
+# https://ethccweek.fr/my-event-name
 #
 # _Don't_ rename the new file (README.md), only edit its content.
 # _Don't_ remove any text before the colons at the beginning of each line,

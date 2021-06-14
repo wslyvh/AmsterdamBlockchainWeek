@@ -34,7 +34,7 @@ title: EthCC — Ethereum Community Conference
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest minds of the community. This conferences puts a strong focus on Tech and People.
+  The Ethereum Community Conference is the biggest conference on Ethereum after DevCon. Halfway between DevCon5 and DevCon6, EthCC is the perfect place to mingle with the brightest and humblest minds of the community. EthCC puts a strong focus on Tech and People.
 
 #####################
 ### EVENT DETAILS ###
@@ -50,15 +50,15 @@ name: EthCC — Ethereum Community Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'EthCC (Ethereum Community Conference) is a conference that will take place in Paris at the Conservatoire Nationale des Arts et Métiers (CNAM) on the 3th to 5th March 2020.'
+    'EthCC (Ethereum Community Conference) will take place in Paris at the Maison de la Mutualité from the 20th to the 22nd of March 2021.'
     
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2020-03-03
+date: 2021-07-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2020-03-05
+endDate: 2021-07-22
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
@@ -72,7 +72,7 @@ tickets: https://ethcc.io/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: TBD
+price: 300
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Maison de la Mutualité, Paris, France
@@ -128,7 +128,7 @@ speakers:
     #title: President
     company: HERE
     companyURL: https://ethcc.io/speakers.html
-    twitter: ASSETH_FR
+    twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.

@@ -21,12 +21,8 @@ module.exports = {
       },
       {
         text: 'Submit an Event',
-        link: 'https://nathansexer.typeform.com/to/j5Ila2'
+        link: 'https://docs.google.com/forms/d/e/1FAIpQLSeq_RN-wdShfpMPOovm7p8cn5wh-LlmOnzNAk0e8kcGzqZL2Q/viewform?usp=sf_link'
       },
-      {
-        text: 'Paris Crypto Guide',
-        link: 'https://nsexer.gitbooks.io/paris-crypto-guide/content/'
-      }
     ],
     logo: 'eiffel-logo.png',
     ga: 'UA-126811549-1',
