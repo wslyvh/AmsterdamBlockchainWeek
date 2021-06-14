@@ -7,7 +7,7 @@
 
 <template>
   <div ref="wrapper">
-    <HeroInternalPage title="Calendar - March 2020" />
+    <HeroInternalPage title="Calendar - July 2021" />
 
     <table>
       <thead>
@@ -55,7 +55,7 @@
 export default {
   data: () => ({
     // First calendar day of the event (March 2)
-    firstDay: 2,
+    firstDay: 19,
     // Hours without the leading zero nor trailing minutes
     firstHour: 9,
     lastHour: 9,
