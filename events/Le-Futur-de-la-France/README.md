@@ -50,7 +50,7 @@ name: Le Futur de la France
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    What better way to start the week than by getting the community together to celebrate being back together after a long hiatus of events. Join us for a few drinks on a beautiful rooftop overlooking the Paris skyline and catch up with everyone you have missed the last year. 
+    What better way to start the week than by getting the community together to celebrate being back together after a long hiatus of events. Join us for a few drinks on a beautiful rooftop overlooking the Paris skyline and catch up with everyone you have missed the last year.
 
   -
     Brought to you by Celo, Centrifuge, Near, Status & Sushiswap
@@ -103,7 +103,6 @@ category: drink
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -
     # Required.
     # name: Jannik
 
