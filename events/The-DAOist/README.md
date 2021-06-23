@@ -41,7 +41,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The DAOist - Tales from the front-line of decentralised governance.
+name: The DAOist
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
