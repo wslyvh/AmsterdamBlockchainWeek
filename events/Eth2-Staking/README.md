@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: The DAOist
+title: Eth2 Staking
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Tales from the frontlines of decentralised governance.
+  Talks about Eth2 staking theorics, liquid staking, MEV, deploy and manage Eth2 validators.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: The DAOist - Tales from the front-line of decentralised governance.
+name: Eth2 Staking
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,42 +50,43 @@ name: The DAOist - Tales from the front-line of decentralised governance.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    The era of DAOs has started globally. 
+    Eth2 is one, if not the hypest, topic in crypto right now.
 
   -
-    Congrats! You are one of the reasons why the entire unstoppable movement is happening. Let’s gather to celebrate DAOs, share ideas, and learn without a screen between us. Prepare your goblet, Daoist! 
+    The transition from PoW to PoS comes with loads of challenges and innovation, making blockchains more efficient and secure.
 
   -
-    You can join the event as a guest, as well as a speaker.
+    In addition to our dedicated EthCC talk, Managing Eth2 validators at scale, we will be delighted to dive into the Ethereum 2.0 staking ocean.
+
     
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2021-07-23
+date: 2021-07-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2021-07-23
+endDate: 2021-07-20
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '14:00'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://thedaoist.webflow.io/
+tickets: https://www.meetup.com/skillz/events/278720057/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Ground Control
+venue: SkillZ office + online streaming
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Ground Control, Rue du Charolais, Paris
+address: 14 Avenue Trudaine, Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -106,21 +107,56 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
+  -
     # Required.
-    # name: Jannik
+    name: Vasiliy Shapovalov
 
     # Can be left empty.
-    # title:
+    title:
 
     # Can be left empty.
-    # company: Shutter Network
+    company: Lido
 
     # The full URL, including http(s)://. Can be left empty.
-    # companyURL: https://twitter.com/project_shutter
+    companyURL: https://lido.fi/
 
     # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
     # Can be left empty.
-    # twitter: AnotherJannik
+    twitter: _vshapovalov
+
+  -
+    # Required.
+    name: Tomasz Kaetan Stanczak
+
+    # Can be left empty.
+    title:
+
+    # Can be left empty.
+    company: Flashbots
+
+    # The full URL, including http(s)://. Can be left empty.
+    companyURL: https://explore.flashbots.net/
+
+    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+    # Can be left empty.
+    twitter: tkstanczak
+
+  -
+    # Required.
+    name: Iulian Rotaru
+
+    # Can be left empty.
+    title:
+
+    # Can be left empty.
+    company: SkillZ
+
+    # The full URL, including http(s)://. Can be left empty.
+    companyURL: https://skillz.io/
+
+    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+    # Can be left empty.
+    twitter: m_rtimr
 
 
 
