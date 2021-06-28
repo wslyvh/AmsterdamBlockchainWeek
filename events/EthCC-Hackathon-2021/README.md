@@ -53,7 +53,7 @@ synopsis:
     A fabulous crew of crypto projects is joining forces to organize a hackathon to take place between Friday, July 23rd and Sunday, July 25th, with different prizes for the best dapp developed on Ethereum in that time.
 
   -
-    More info coming very soon, - so if we could give you one advice: don't book your flight back on Sunday 😇
+    More info coming very soon, so if we could give you one advice, don't book your flight back on Sunday! 😇
 
   -
     The era of DAOs has started globally. 
