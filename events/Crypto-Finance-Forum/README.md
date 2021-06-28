@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC Official AfterParty
+title: Crypto Finance Forum
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Come join us for the official EthCC afterparty, sponsored by Ledger!
+  Crypto Finance Forum est un lieu d’échange entre les acteurs du secteur crypto, les entreprises et startups, les décideurs et les autorités. 
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC Official AfterParty
+name: Crypto Finance Forum
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,42 +50,47 @@ name: EthCC Official AfterParty
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Ledger is happy to invite you to unwind and mingle after an eventful week!
+    Crypto Finance Forum est un lieu d’échange entre les acteurs du secteur crypto, les entreprises et startups, les décideurs et les autorités. Organisée par l’Adan, cette conférence souligne l'innovation et le potentiel de croissance portés par le secteur des actifs numériques et de la crypto-finance. 
 
   -
-    Please come join us for an after party of good music and good company, on one of the most exclusive rooftops of Paris! All within walking distance of the EthCC.
+    Des intervenants de renom partagent leur expertise et échangent sur le fort développement de l'industrie, les spécificités de cette nouvelle classe d'actifs, les opportunités du marché, les futures innovations de la finance numérique et les besoins de cette industrie afin de les développer.
 
   -
-    As places are limited due to Covid restrictions, please note that you need to register in advance. A sanitary pass and your EthCC pass will be required at the entrance.
+    Quelles tendances, usages et opportunités sont à saisir pour les institutionnels ? Les différentes stratégies et prospectives seront mises en lumière dans le but de construire un territoire en pointe sur la crypto-finance en France.
 
+  -
+    Crypto Finance Forum est organisé par l'Adan et se tiendra le 19 juillet à la Maison de la Mutualité pendant la 4e édition d’EthCC Week à Paris.
+  -
+    Avec Claire Balva (KPMG), Jérôme Bascher (Sénateur), Denis Beau (Banque de France), Mounir Benchemled (ParaSwap), Raphael Bloch (L'Express), Yves Choueifaty (Tobam), Sébastien Couture (Adan), Valentin Demé (Cryptoast), Stéphane Duzan (Forge Capital Markets), Gilles Fedak (iExec), Faustine Fleuret (Adan), Pascal Gauthier (Ledger), Pierre Gerard (Scorechain), Mathis Gontier Delaunay (Kryptosphere), Ivan de Lastours (Bpifrance), Charlie Meraud (Woorton), Pierre Person (Député), Simon Polrot (Adan), David Roche (Aramis Law), Thibaut Sahagian (Multis), Ambre Soubiran (Kaiko), Jérôme de Tychey (Ethereum France)
+    
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2021-07-22
+date: 2021-07-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2021-07-22
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:00'
+time: '9:00'
 # Time when the event ends. Can be left empty.
-endTime: '23:30'
+endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/billets-ethcc-afterparty-by-ledger-161244343171
+tickets: https://cryptofinanceforum.fr/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Café Oz Rooftop
+venue: Maison de la Mutualité
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 34 Quai d'Austerlitz, 75013 Paris
+address: 24 Rue Saint-Victor, 75005 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -94,7 +99,7 @@ address: 34 Quai d'Austerlitz, 75013 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: drink
+category: conference
 
 
 #################
@@ -107,6 +112,9 @@ category: drink
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
 
+    # # The full URL, including http(s)://. Can be left empty.
+    #website: https://blockchainweek.fr
+
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
     #bio: Hi.
@@ -114,8 +122,8 @@ speakers:
     #name: See all speakers
     #title: President
     #company: HERE
-    companyURL: https://www.ethereum-france.com/
-    twitter: Ethereum_France
+    #companyURL: https://ethcc.io/speakers.html
+    #twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.

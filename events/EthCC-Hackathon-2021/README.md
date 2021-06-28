@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC Official AfterParty
+title: EthCC Hackathon 2021
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Come join us for the official EthCC afterparty, sponsored by Ledger!
+  Let's build on Ethereum and have fun! 🤩✊
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC Official AfterParty
+name: EthCC Hackathon 2021
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,42 +50,42 @@ name: EthCC Official AfterParty
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Ledger is happy to invite you to unwind and mingle after an eventful week!
+    A fabulous crew of crypto projects is joining forces to organize a hackathon to take place between Friday, July 23rd and Sunday, July 25th, with different prizes for the best dapp developed on Ethereum in that time.
 
   -
-    Please come join us for an after party of good music and good company, on one of the most exclusive rooftops of Paris! All within walking distance of the EthCC.
+    More info coming very soon, - so if we could give you one advice: don't book your flight back on Sunday 😇
 
   -
-    As places are limited due to Covid restrictions, please note that you need to register in advance. A sanitary pass and your EthCC pass will be required at the entrance.
-
+    The era of DAOs has started globally. 
+    
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2021-07-22
+date: 2021-07-23
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2021-07-22
+endDate: 2021-07-25
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
-# Example: '18:00'
-time: '19:00'
+# Example: '16:00'
+time: '16:00'
 # Time when the event ends. Can be left empty.
-endTime: '23:30'
+endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/billets-ethcc-afterparty-by-ledger-161244343171
+tickets:
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Café Oz Rooftop
+venue: TBC
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 34 Quai d'Austerlitz, 75013 Paris
+address:
 
 # The category of the event. Valid options:
 # - conference
@@ -94,7 +94,7 @@ address: 34 Quai d'Austerlitz, 75013 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: drink
+category: hackathon
 
 
 #################
@@ -106,6 +106,26 @@ category: drink
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
+    # Required.
+    # name: Jannik
+
+    # Can be left empty.
+    # title:
+
+    # Can be left empty.
+    # company: Shutter Network
+
+    # The full URL, including http(s)://. Can be left empty.
+    # companyURL: https://twitter.com/project_shutter
+
+    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+    # Can be left empty.
+    # twitter: AnotherJannik
+
+
+
+    # # The full URL, including http(s)://. Can be left empty.
+    #website: https://blockchainweek.fr
 
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -114,8 +134,8 @@ speakers:
     #name: See all speakers
     #title: President
     #company: HERE
-    companyURL: https://www.ethereum-france.com/
-    twitter: Ethereum_France
+    #companyURL: https://ethcc.io/speakers.html
+    #twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
