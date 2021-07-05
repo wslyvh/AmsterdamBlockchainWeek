@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Paris MEV Special
+title: Defi Night with SKALE & 1inch
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Panel discussion about MEV and frontrunning - approaches, solutions and challenges.
+  Mingle with top community members, enjoy the view of the river and the Eiffel Tower while sipping on amazing drinks.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Paris MEV Special
+name: Defi Night with SKALE & 1inch
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,35 +50,34 @@ name: Paris MEV Special
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'Miner/maximally -extractable value (MEV) and frontrunning are widely recognized to be among the final unsolved fundamental issues in the blockchain space. Since January 2021, there is more than $750M of MEV extracted by now.'
-
+    Come talk DeFi with SKALE, 1inch and the ETHCC community on a Rooftop on the Parisian River (La Seine). Menu: Cocktails, Wine, Soft Drinks and Mediterranean Bites.
   -
-    'Managing MEV requires innovative approaches and solutions. We will have a panel discussion to outline these points and highlight the current challenges.'
-    
+    RSVP Required - Limited Spot!
+
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2021-07-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2021-07-20
+endDate:
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '20:00'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime: '22:00'
+endTime: '23:30'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/paris-mev-special-tickets-159836167279
+tickets: https://www.eventbrite.com/e/defi-night-with-skale-1inch-tickets-161969305553
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBD
+venue: Terrace by the Pont Bir Hackeim
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
@@ -91,7 +90,7 @@ address:
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
@@ -103,61 +102,6 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -
-    # Required.
-    name: Jannik
-
-    # Can be left empty.
-    title:
-
-    # Can be left empty.
-    company: Shutter Network
-
-    # The full URL, including http(s)://. Can be left empty.
-    companyURL: https://twitter.com/project_shutter
-
-    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-    # Can be left empty.
-    twitter: AnotherJannik
-
-  -
-    # Required.
-    name: Felix
-
-    # Can be left empty.
-    title:
-
-    # Can be left empty.
-    company: CowSwap
-
-    # The full URL, including http(s)://. Can be left empty.
-    companyURL: https://cowswap.exchange/
-
-    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-    # Can be left empty.
-    twitter: MEVprotection
-
-  -
-    # Required.
-    name: Alex
-
-    # Can be left empty.
-    title:
-
-    # Can be left empty.
-    company: Flashbots
-
-    # The full URL, including http(s)://. Can be left empty.
-    companyURL: https://explore.flashbots.net/
-
-    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-    # Can be left empty.
-    twitter: ObadiaAlex
-
-
-
-    # # The full URL, including http(s)://. Can be left empty.
-    #website: https://blockchainweek.fr
 
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -166,8 +110,8 @@ speakers:
     #name: See all speakers
     #title: President
     #company: HERE
-    #companyURL: https://ethcc.io/speakers.html
-    #twitter: Ethereum_France
+    companyURL: https://www.ethereum-france.com/
+    twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
