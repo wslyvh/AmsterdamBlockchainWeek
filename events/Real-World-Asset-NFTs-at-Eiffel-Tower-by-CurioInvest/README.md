@@ -34,7 +34,7 @@ title: Real World Asset NFTs at Eiffel Tower by CurioInvest
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Panel discussion about MEV and frontrunning - approaches, solutions and challenges.
+  Let's kick off EthCC week at the Eiffel Tower, enjoying the view of Paris and talking about two hot topics in crypto - NFTs and Real World Asset Tokenization.
 
 #####################
 ### EVENT DETAILS ###
