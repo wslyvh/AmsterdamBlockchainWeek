@@ -68,7 +68,7 @@ time: '19:00'
 endTime: '00:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.meetup.com/defi-paris/events/279175437/
+tickets: mailto:samantha@multis.co?subject=RSVP Multis Mint and Burn Party
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
