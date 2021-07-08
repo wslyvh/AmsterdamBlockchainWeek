@@ -74,18 +74,18 @@ time: '16:00'
 endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets:
+tickets: https://vvyc3o4gk7q.typeform.com/to/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBC
+venue: Deskopolitan
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
+address: 226 boulevard Voltaire, 75011 Paris
 
 # The category of the event. Valid options:
 # - conference

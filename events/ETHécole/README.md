@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: ETHecolé
+title: ETHécole
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  ETHecolé is more than just regular event! Two tracks, park for networking, more than 100 people, a bunch of cool free swag and other perks!
+  ETHécole is more than just regular event! Two tracks, park for networking, more than 100 people, a bunch of cool free swag and other perks!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: ETHecolé
+name: ETHécole
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -70,7 +70,7 @@ synopsis:
   -
     We will be giving away POAP tokens, cool stickers and more. We’re also working with Optimism photo gifts and a few extras!
   -
-    Website with more info coming soon!
+    Website with more info - www.ethecole.com
   -
     The event is organised by Ethereum Magicians, David Mihal, Kalle Moen and crew.
 
@@ -90,7 +90,7 @@ time: '9:00'
 endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/ethecole-tickets-161915291997
+tickets: www.ethecole.com
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
@@ -130,8 +130,8 @@ speakers:
     #name: See all speakers
     #title: President
     #company: HERE
-    companyURL: https://www.ethereum-france.com/
-    twitter: Ethereum_France
+    #companyURL: 
+    #twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.
