@@ -50,6 +50,8 @@ name: Do well. Do good. (with DeFi)
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
+    Popcorn (https://popcorn.network) invites you to an evening with natural wine & charcuterie at La Grande Crèmerie, a cozy wine bar 15min away from EthCC, down the street from Point Neuf.
+  -
     We’ve seen an incredible amount of wealth created in DeFi with increased protocol interoperability and liquidity allowing smart contracts to generate high returns for users. Surprisingly, there are close to zero DeFi protocols that allocate a percentage of revenue towards Social Impact. Blue chip centralized exchanges such as Binance and FTX donate to charitable organizations, however total earmarked funds thus far are microscopic compared to the $ billions in daily volume.
   -
     Smart contracts present the opportunity to bake social good into DeFi by contributing a substantial percentage of fees to create real world impact. And what about carbon credits or carbon offsets as a new asset class that can be baked into DeFi protocols. Let's discuss what we can do to improve DeFi!
@@ -70,18 +72,18 @@ time: '21:00'
 endTime: '00:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets:
+tickets: https://www.eventbrite.com/e/162663361493
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Verre Volé
+venue: La Grande Crèmerie
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
+address: 8 Rue Grégoire de Tours, 75006 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -110,8 +112,8 @@ speakers:
     #name: See all speakers
     #title: President
     #company: HERE
-    companyURL: https://www.ethereum-france.com/
-    twitter: Ethereum_France
+    #companyURL: https://www.ethereum-france.com/
+    #twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,
     #  known as Jerome, he co-founded Asseth and leads Asseth with other asseths.

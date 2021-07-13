@@ -74,7 +74,7 @@ time: '16:00'
 endTime:
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://vvyc3o4gk7q.typeform.com/to/
+tickets: https://vvyc3o4gk7q.typeform.com/to/xe1wSmo7
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).

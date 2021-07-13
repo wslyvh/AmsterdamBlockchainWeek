@@ -50,11 +50,11 @@ name: Keeping up with the Maker Mafia
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    'This year has been an exciting one for MakerDAO - in line with the progressive decentralization principle, the Maker Foundation is dissolving and the community is getting bigger and stronger: we have witnessed the appearance of various core units that provide services directly to the DAO, and the formation of new companies that are part of the Maker ecosystem.'
+    This year has been an exciting one for MakerDAO - in line with the progressive decentralization principle, the Maker Foundation is dissolving and the community is getting bigger and stronger: we have witnessed the appearance of various core units that provide services directly to the DAO, and the formation of new companies that are part of the Maker ecosystem.
   -
-    'Curious to hear more from the people behind these? Or just seizing the opportunity to reconnect with your fellow Maker community? Join us in Paris on July 21th. More info will follow soon.'
+    Curious to hear more from the people behind these? Or just seizing the opportunity to reconnect with your fellow Maker community? Join us in Paris on July 21th. More info will follow soon.
   -
-    'Speakers will include reps from MakerDAO Core Units, spin-off companies (like Oasis.app) and Maker Community.'
+    Speakers will include reps from MakerDAO Core Units, spin-off companies (like Oasis.app) and Maker Community.
     
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -72,18 +72,18 @@ time: '17:00'
 endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets:
+tickets: https://www.eventbrite.com/e/keeping-up-with-the-maker-mafia-tickets-161918960971
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBD
+venue: Ground Control
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
+address: 81 Rue du Charolais, 75012 Paris
 
 # The category of the event. Valid options:
 # - conference

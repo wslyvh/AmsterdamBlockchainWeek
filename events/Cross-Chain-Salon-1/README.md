@@ -20,7 +20,7 @@ endTime: '17:00'
 
 tickets: https://www.eventbrite.com/e/cross-chain-salon-blockchain-paris-tickets-162627867329
 
-price: 
+price: $0-$500
 
 venue:
 
