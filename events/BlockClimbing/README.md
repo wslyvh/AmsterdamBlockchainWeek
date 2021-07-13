@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: EthCC Hackathon 2021
+title: EthCC Block Climbing (Bouldering session)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Let's build on Ethereum and have fun! 🤩✊
+  Bouldering session not far from EthCC venue. All levels welcome!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: EthCC Hackathon 2021
+name: EthCC Block Climbing (Bouldering session)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,42 +50,46 @@ name: EthCC Hackathon 2021
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    A fabulous crew of crypto projects is joining forces to organize a hackathon to take place between Friday, July 23rd and Sunday, July 25th, with different prizes for the best dapp developed on Ethereum in that time.
+    EthCC Block Climbing (Bouldering session)
 
   -
-    More info coming very soon, so if we could give you one advice, don't book your flight back on Sunday! 😇
+    Bouldering session not far from EthCC venue. All levels welcome!
 
   -
-    The era of DAOs has started globally. 
+    Come at 3:00PM at Climb Up Paris Porte d'Italie for a 2hours bouldering/climbing session (more for) to sweat one more time before the talks and parties!
+
+  - 
+    NO NEED TO REGISTER. You will be able to rent climbing shoes there too.
+    FYI, There are showers, sauna & hammam.
     
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2021-07-23
+date: 2021-07-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2021-07-25
+endDate: 2021-07-19
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '16:00'
-time: '16:00'
+time: '15:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://vvyc3o4gk7q.typeform.com/to/xe1wSmo7
+tickets: 
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Deskopolitan
+venue: Climb Up Paris Porte d'Italie
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 226 boulevard Voltaire, 75011 Paris
+address: 18 Avenue de la Porte d'Italie, 75013 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -94,7 +98,7 @@ address: 226 boulevard Voltaire, 75011 Paris
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: hackathon
+category: event
 
 
 #################
