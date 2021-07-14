@@ -127,7 +127,7 @@ speakers:
     name: See all speakers
     #title: President
     company: HERE
-    companyURL: https://ethcc.io/speakers.html
+    companyURL: https://ethcc.io/speakers
     twitter: Ethereum_France
     #website: https://jdetychey.com
     #bio: Jerome De Tychey is Jerome,

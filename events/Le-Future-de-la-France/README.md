@@ -50,11 +50,11 @@ name: Le Future de la France
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    What better way to start the week than by getting the community together to celebrate being back together after a long hiatus of events. Join us for a few drinks on a beautiful rooftop overlooking the Paris skyline and catch up with everyone you have missed the last year.
+    What better way to start the week than by getting the community together to celebrate being back together after a long hiatus of events. Join us for a few drinks on a beautiful rooftop overlooking the Paris skyline and catch up with everyone you have missed the last year. 
 
   -
     Brought to you by Celo, Centrifuge, Near, Status & Sushiswap
-    
+
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -68,17 +68,17 @@ endDate: 2021-07-19
 # Example: '18:00'
 time: '15:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets:
+tickets: 
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBD
+venue: Jardins du Pont Neuf
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
