@@ -34,7 +34,7 @@ title: EthCC Block Climbing (Bouldering session)
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: 
-  Bouldering session not far from EthCC venue. All levels welcome!
+  Bouldering/Climbing session not too far from EthCC venue.
 
 #####################
 ### EVENT DETAILS ###
@@ -53,14 +53,15 @@ synopsis:
     EthCC Block Climbing (Bouldering session)
 
   -
-    Bouldering session not far from EthCC venue. All levels welcome!
+    Bouldering session not too far from EthCC venue. All levels welcome!
 
   -
-    Come at 3:00PM at Climb Up Paris Porte d'Italie for a 2hours bouldering/climbing session (more for) to sweat one more time before the talks and parties!
+    Come at 3:00PM at "Climb Up Paris Porte d'Italie" for a bouldering/climbing session to sweat one more time before the talks and parties!
 
   - 
-    NO NEED TO REGISTER. You will be able to rent climbing shoes there too.
-    FYI, There are showers, sauna & hammam.
+    NO NEED TO REGISTER. 
+    You will be able to rent climbing shoes there too.
+    FYI, There are showers, sauna, hammam and food available.
     
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -129,7 +130,7 @@ speakers:
 
 
     # # The full URL, including http(s)://. Can be left empty.
-    #website: https://blockchainweek.fr
+    website: https://t.me/joinchat/R7ogsu6KD-IX15e0
 
     # # The bio is a single line.
     # # Linebreaks are ignored, but they _must_ start with two spaces.
