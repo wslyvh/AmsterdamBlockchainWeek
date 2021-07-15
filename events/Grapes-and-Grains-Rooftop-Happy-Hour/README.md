@@ -1,28 +1,28 @@
 ---
-title: Grapes and Grains
+title: Grapes and Grains Rooftop Happy Hour
 
 description: 
-  Happy Hour with APWine Finance and Harvest Finance
+  Happy Hour to Sunset with APWine Finance and Harvest Finance
 
-name: Grapes and Grains
+name: Grapes and Grains Rooftop Happy Hour
 
 synopsis:
   -
-    Join us for wine and beer and snacks after the first day of ETHCC! Network with new friends and peers and relax at an amazing rooftop location in Paris.
+    Join Harvest Finance for drinks and snacks after the first day of ETHCC! Network with new friends and peers and relax at an amazing rooftop location in Paris where the sunset promises to be amazing!
 
 date: 2021-07-20
 endDate:
 
 time: '16:00'
-endTime: '20:00'
+endTime: '22:00'
 
-tickets: https://twitter.com/APWineFinance/status/1410641232951345152
+tickets: https://www.eventbrite.com/e/grapes-and-grains-drinks-and-hors-doeuvres-with-apwine-harvest-finance-tickets-163206485993
 
 price: 
 
-venue: https://rooftop-paris.com/ - Exact rooftop venue TBA!
+venue: Rooftop Des Champs-Elysees
 
-address: TBA
+address: 103, avenue des Champs-Élysées - 75008 Paris
 
 # The category of the event. Valid options:
 # - conference
@@ -37,11 +37,11 @@ category: drink
 speakers:
 
  -
-    name: Smokatokey
+    name: Red
     title: Project Foreman
     company: Harvest Finance
     companyURL: https://harvest.finance
-    twitter: smokatokey
+    #twitter: smokatokey
     #website: https://jdetychey.com
     #bio: 
 

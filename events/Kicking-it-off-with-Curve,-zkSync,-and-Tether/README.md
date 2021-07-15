@@ -19,16 +19,16 @@ synopsis:
 date: 2021-07-19
 endDate:
 
-time: '15:00'
-endTime: '19:00'
+time: '17:00'
+endTime: '20:00'
 
 tickets: https://www.eventbrite.co.uk/e/kickoff-with-curve-zksync-tether-tickets-162823502479
 
 price: 
 
-venue: TBA
+venue: Port de Solférino
 
-address: 
+address: Port de Solférino, Quai Anatole France, Paris
 
 # The category of the event. Valid options:
 # - conference

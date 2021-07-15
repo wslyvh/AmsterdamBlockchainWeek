@@ -11,6 +11,8 @@ synopsis:
     Cross-chain is about more than bridging technology. It’s about acutely connecting the unique cultures of the ecosystems creating real change. The League of Bridges is a coalition that exists to drive home one point and one point only; all ecosystems need to work together — because in the world of web3 there are no winners or losers, just the infinite game.
   -
     Swing by the Cross-Chain Salon to meet fellow builders, hang out with friends, or find a space to chill (with coffee + high speed internet). There is an area for workshops and talks, and plenty of spaces to relax. We'll be open daily from 11am - 5pm.
+  -
+    Sponsored by Centrifuge, Celo, Near, The Graph, Skale, Polkadot, Harmony, Opolis & Skynet. And Department of Decentralisation as Community Partners.
 
 date: 2021-07-21
 endDate: 2021-07-21

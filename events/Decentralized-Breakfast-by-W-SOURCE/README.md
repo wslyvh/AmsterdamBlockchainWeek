@@ -31,7 +31,7 @@ endDate:
 time: '9:00'
 endTime: '11:30'
 
-tickets: https://www.eventbrite.fr/myevent?eid=163155397185
+tickets: https://www.eventbrite.fr/e/w-source-decentralized-breakfast-registration-163155397185
 
 price: 
 
