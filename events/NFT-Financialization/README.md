@@ -23,7 +23,7 @@ endDate:
 time: '17:30'
 endTime: '20:00'
 
-tickets: https://www.eventbrite.com/e/nft-financialization-tickets-162883943259
+tickets: https://www.eventbrite.fr/e/nft-financialization-tickets-163505239573
 
 price: 
 
