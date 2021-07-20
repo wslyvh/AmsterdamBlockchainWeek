@@ -13,6 +13,9 @@ synopsis:
     While we talk, Sacha Saint-Leger and Aude Launay will guide us through the Bois de Vincennes, from an impressive medieval castle built to assert royal power, to the historic site of Paris’s ghost experimental university born from the ashes of May 68 where the most prominent political thinkers taught (Foucault, Deleuze, Chomsky…), before the place was suddenly and violently shut down for being too radically leftist. Let’s explore the paths from Maoism to Daoism. 
   -
     DM us @audelau so we know we have to wait for you at the meeting point!
+  -
+    Meeting point outside of the subway station Château de Vincennes, in front of the castle, at 2pm.  (10 min ride from Gare de Lyon, The DAOist station 😊) For those who would not want to leave this extraordinary place right after the discussion, some renowned Parisian guinguettes and restaurants are to be found in the park.
+
 
 date: 2021-07-24
 endDate:
@@ -24,10 +27,9 @@ tickets:
 
 price: 
 
-venue: Meeting point - outside of the subway station Château de Vincennes, in front of the castle, at 2pm.  (10 min ride from Gare de Lyon, The DAOist station 😊)
-For those who would not want to leave this extraordinary place right after the discussion, some renowned Parisian guinguettes and restaurants are to be found in the park.
+venue: Outside of the subway station Château de Vincennes, in front of the castle.
 
-address: 
+address:
 
 # The category of the event. Valid options:
 # - conference
@@ -47,7 +49,7 @@ speakers:
     company: 1hive
     #companyURL: 
     twitter: 0xmiel
-    website: gardens.substack.com/
+    website: https://gardens.substack.com
     #bio: 
 
  -
