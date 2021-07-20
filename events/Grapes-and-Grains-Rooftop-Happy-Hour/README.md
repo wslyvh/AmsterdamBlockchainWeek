@@ -20,9 +20,9 @@ tickets: https://www.eventbrite.com/e/grapes-and-grains-drinks-and-hors-doeuvres
 
 price: 
 
-venue: Rooftop Des Champs-Elysees
+venue: Rooftop Des Champs-Elysees. Attendees need to meet an agent at the below address who will escort them to the secret location. You must have your name on the guest list to attend! Between Yves Rocher et Jeff de Bruges près du 100, avenue des Champs-Élysées, Paris.
 
-address: 103, avenue des Champs-Élysées - 75008 Paris
+address: 
 
 # The category of the event. Valid options:
 # - conference

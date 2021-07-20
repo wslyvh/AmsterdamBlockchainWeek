@@ -14,7 +14,7 @@ synopsis:
   -
     This is an informal gathering with an ice-breaking panel discussion on end-to-end privacy. Meet with folks driven by making an alternative end-state possible, where surveillance capitalism and financial systems are not susceptible to capture by nation states– motifs that are best combined with a glass of wine - or any other fermented, distilled drinks or combinations of the latter are also provided.
 
-date: 2021-07-21
+date: 2021-07-20
 endDate:
 
 time: '19:00'
