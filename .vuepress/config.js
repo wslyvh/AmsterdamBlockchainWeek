@@ -1,12 +1,11 @@
 module.exports = {
   // Use the name of the repo if the content is served from GitHub Pages
-  // base: '/blockchainweek.fr/',
   // Leave the base as '/' if serving the content from a custom domain
   base: '/',
-  title: 'EthCC Week',
+  title: 'AMS Blockchain Week',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'icon', href: '/eiffel-logo.png' }],
+    ['link', { rel: 'icon', href: '/ams-logo.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   themeConfig: {
@@ -21,11 +20,11 @@ module.exports = {
       },
       {
         text: 'Submit an Event',
-        link: 'https://docs.google.com/forms/d/e/1FAIpQLSeq_RN-wdShfpMPOovm7p8cn5wh-LlmOnzNAk0e8kcGzqZL2Q/viewform?usp=sf_link'
+        link: 'https://docs.google.com/forms/d/e/1FAIpQLSe12ruWqQfGoBi6eEHjyRejaGun6cg45hvZwtvRwmt82BQ5Bg/viewform'
       },
     ],
-    logo: 'eiffel-logo.png',
-    ga: 'UA-126811549-1',
+    logo: 'ams-logo.png',
+    ga: 'G-NJKFC45RN6',
     // Assumes GitHub. Can also be a full GitLab url.
     // repo: 'nsexer/blockchainweek.fr',
     // Customising the header label
@@ -35,7 +34,7 @@ module.exports = {
     // if your docs are in a different repo from your main project:
     // docsRepo: 'vuejs/vuepress',
     // if your docs are not at the root of the repo:
-    // docsDir: 'docs',
+    docsDir: 'docs',
     // if your docs are in a specific branch (defaults to 'master'):
     docsBranch: 'master',
     // defaults to false, set to true to enable

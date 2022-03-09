@@ -4,3 +4,4 @@
 node_modules/
 instructions.txt
 yarn.lock
+.DS_store

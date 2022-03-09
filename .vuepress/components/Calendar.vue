@@ -7,7 +7,7 @@
 
 <template>
   <div ref="wrapper">
-    <HeroInternalPage title="Calendar - July 2021" />
+    <HeroInternalPage title="Calendar - April 2022" />
 
     <table>
       <thead>
@@ -37,7 +37,7 @@
           </td> -->
 
           <!-- Each day column-->
-          <td v-for="d in firstDay + 6" v-if="d >= firstDay">
+          <td v-for="d in firstDay + 10" v-if="d >= firstDay">
             <div v-for="event in checkEvents(d, t)" v-if="event">
               <a :href="$withBase(event.path)">{{ event.name }}</a>
             </div>
@@ -55,11 +55,12 @@
 export default {
   data: () => ({
     // First calendar day of the event (March 2)
-    firstDay: 19,
+    firstDay: 17,
     // Hours without the leading zero nor trailing minutes
     firstHour: 9,
     lastHour: 9,
     dayNames: [
+      'Sunday',
       'Monday',
       'Tuesday',
       'Wednesday',
@@ -67,9 +68,9 @@ export default {
       'Friday',
       'Saturday',
       'Sunday',
-      // 'Monday',
-      // 'Tuesday',
-      // 'Wednesday',
+      'Monday',
+      'Tuesday',
+      'Wednesday',
       // 'Thursday',
     ],
     days: [],

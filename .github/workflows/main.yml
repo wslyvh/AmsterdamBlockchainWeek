@@ -1,23 +1,17 @@
-name: Upload Website
-
-on:
-  push:
-    branches:
-    - master
-
+name: Build and Deploy
+on: [push]
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
+      uses: actions/checkout@master
 
-    - name: Configure AWS Credentials
-      uses: aws-actions/configure-aws-credentials@v1
-      with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: eu-west-3
-
-    - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./public/ s3://ethccweek.fr --delete
+    - name: vuepress-deploy
+      uses: jenkey2011/vuepress-deploy@master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        TARGET_REPO: mrdavey/AmsterdamBlockchainWeek
+        BUILD_SCRIPT: yarn && yarn build
+        BUILD_DIR: .vuepress/dist
+        CNAME: http://amsterdamblockchainweek.org

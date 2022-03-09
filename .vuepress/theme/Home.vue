@@ -16,7 +16,7 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> the EthCC Week</h2>
+        <h2 class="home_about-title"><b>About</b> the AMS Blockchain Week</h2>
         <Content custom/>
       </div>
     </div>
@@ -24,7 +24,7 @@
       <div class="home-wrap">
         <div class="features" v-if="data.features && data.features.length">
           <div class="title">
-            <h2><b>Venues</b> of the EthCC Week</h2>
+            <h2><b>Venues</b> of the AMS Blockchain Week</h2>
           </div>
           <div class="feature" v-for="feature in data.features">
             <h2>{{ feature.title }}</h2>

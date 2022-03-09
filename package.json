@@ -1,18 +1,17 @@
 {
-  "name": "ethccweek.fr",
+  "name": "amsterdamblockchainweek.org",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:ethccweek/ethccweek.fr.git",
-  "author": "Carlos E. Salazar <ce.salazar@gmail.com>",
+  "repository": "git@github.com:devcon2social/amsterdamblockchainweek.org.git",
+  "author": "AMS Blockchain Week crew",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cesalazar/berlinblockchainweek/issues"
+    "url": "https://github.com/mrdavey/AmsterdamBlockchainWeek.org/issues"
   },
-  "homepage": "https://cesalazar.github.com/berlinblockchainweek",
+  "homepage": "https://github.com/mrdavey/AmsterdamBlockchainWeek.org",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build",
-    "deploy": "aws s3 sync /Users/philh/Documents/Github/website/.vuepress/dist s3://ethccweek.fr"
+    "build": "vuepress build"
   },
   "devDependencies": {
     "debounce": "^1.2.0",

@@ -1,16 +1,16 @@
 {
-  "name": "EthCC Week(s)",
-  "short_name": "EthCCWeekFR",
+  "name": "AMS Blockchain Week",
+  "short_name": "AMSBlockchainWeek",
   "icons": [
     {
-      "src": "/eiffel-logo.png",
+      "src": "/ams-logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/eiffel-logo.png",
+      "src": "/ams-logo-512.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ],
   "start_url": "/index.html",
