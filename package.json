@@ -2,13 +2,13 @@
   "name": "amsterdamblockchainweek.org",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:devcon2social/amsterdamblockchainweek.org.git",
+  "repository": "git@github.com:mrdavey/AmsterdamBlockchainWeek.git",
   "author": "AMS Blockchain Week crew",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrdavey/AmsterdamBlockchainWeek.org/issues"
+    "url": "https://github.com/mrdavey/AmsterdamBlockchainWeek/issues"
   },
-  "homepage": "https://github.com/mrdavey/AmsterdamBlockchainWeek.org",
+  "homepage": "https://github.com/mrdavey/AmsterdamBlockchainWeek",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
