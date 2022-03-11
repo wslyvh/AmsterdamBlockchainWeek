@@ -2,11 +2,14 @@ Join the [Telegram group](https://t.me/amsblockchainweek)
 
 # AMS Blockchain Week
 
-In 2022, DevConnect AMS takes place in April. While DevConnect AMS itself will be the flagship event for the Ethereum communities, more than 100 speakers coming from all over the world, multiple side events, meetups, panels and parties will also take place on the same week in Amsterdam.
+In 2022, DevConnect AMS takes place in April. While DevConnect AMS itself will be the flagship event series for the Ethereum communities with thousands descending upon Amsterdam for the week, there will be multiple side events, meetups, panels and parties also taking place during the same week in Amsterdam that might not fit on the Devconnect AMS official schedule (they do not list parties, for instance).
 
-This is the AMS Blockchain Week, a moment of inclusive conversations, educational gatherings, welcoming celebrations. If you're planning an event related to public blockchains and the decentralized movement, reach out to have it published on this website. 
+This is the AMS Blockchain Week, a moment of inclusive conversations, educational gatherings, welcoming celebrations. If you're planning an event related to public blockchains and the decentralized movement, reach out to have it published on this website.
 
-Please be respectful of other events and minimize overlap.
+The following event types will be listed here:
+- Parties, social events
+- Part-day gatherings, smaller events
+- Events related to public blockchains and the decentralized movement
 
 This repository contains the code for the website, which can be reached at
 [amsterdamblockchainweek.org](https://amsterdamblockchainweek.org/).
